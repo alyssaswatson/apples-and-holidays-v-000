@@ -38,7 +38,7 @@ def add_supply_to_memorial_day(holiday_hash, supply)
    return holiday_hash
   holiday_supplies[:spring][:memorial_day] << "Table Cloth"
    return holiday_hash
-  
+
 
 end
 
