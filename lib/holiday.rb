@@ -60,7 +60,6 @@ def all_supplies_in_holidays(holiday_hash)
   # etc.
   holiday_supplies.each do |season, holiday, supplies|
     puts "#{season.capitalize}:"
-    binding.pry
   end
 
 end
