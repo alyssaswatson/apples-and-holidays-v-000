@@ -61,8 +61,8 @@ def all_supplies_in_holidays(holiday_hash)
   holiday_supplies.each do |season, holiday, supplies|
     print season 
 
+  end
 
-binding.pry
 end
 
 def all_holidays_with_bbq(holiday_hash)
